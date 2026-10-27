@@ -1,0 +1,17 @@
+# 1C:Enterprise temporary and backup files
+*.epf.bak
+*.erf.bak
+*.tmp
+~*
+*.log
+
+# Windows thumbnail and system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+
+# Archives
+*.zip
